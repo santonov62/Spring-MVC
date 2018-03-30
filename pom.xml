@@ -79,6 +79,13 @@
 			<version>1.4.190</version>
 		</dependency>
 
+		<!-- Hibernate ORM -->
+		<dependency>
+			<groupId>org.hibernate</groupId>
+			<artifactId>hibernate-core</artifactId>
+			<version>5.2.11.Final</version>
+		</dependency>
+
 	</dependencies>
 
 	<repositories>
