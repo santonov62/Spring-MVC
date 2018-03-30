@@ -1,5 +1,6 @@
 package SpringMVC.service;
 
+import SpringMVC.dao.PersonDao;
 import SpringMVC.model.Person;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
